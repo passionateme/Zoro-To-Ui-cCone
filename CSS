@@ -1,0 +1,167 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    background: #202125;
+    font-family: Arial;
+}
+
+.menu-linkS{
+    padding-top: 60px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.home-menu-link {
+    margin-left: 350px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.MAINCONTENT {
+    height: 500px;
+    margin: 0px;
+    }
+
+    #zoro-logo {
+        margin-left: 330px;
+        padding: 10px;
+      height: 80px;
+      width: 220px;
+    }
+
+   #image-icon-zoro {
+    margin-left: 1000px;
+   }
+
+   #search-bar-button {
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    color: #202125;
+    border-radius: 28px;
+    margin-left: 330px;
+    margin-right: 0px;
+    margin-top: 10px;
+    border-style:none;
+
+}
+
+#SEARCH-BUTTON-ICON-GREEN-BG-BUTTON {
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: greenyellow;
+    margin-left: 1200px;
+    font-size: larger;
+
+}
+#SEARCH-ICON-BG-IMG {
+    height: 50px;
+    width: 50PX;
+    text-align: center;
+    background-color: transparent;
+   
+}
+
+#RANKING-SEARCHES-TAGS{
+   margin-top:10px
+}
+
+.RANKING-SEARCHES {
+    text-decoration: none;
+    color: #aaa;
+   font-size: 14px;
+    text-align: left;
+    display: inline-block;
+   
+}
+
+#RANKING-SEARCHES-KAIJU-NO-8-LINK , #RANKING-SEARCHES-Naruto-Shippuden , #RANKING-SEARCHES-The-Misfit-Of-Demon-King{
+    margin-left: 360px;
+}
+
+#container {
+  display: inline-block;
+}
+ .descreption {
+        height: 600px;
+        }
+        
+        .DETAIL-paragraphs {
+            color: white;
+            margin-left: 360PX;
+            text-align: left;
+        }
+
+      #VIEW-FULL-BUTTON-ID-NAME {
+        margin-bottom: 20px;
+        background:greenyellow;
+        color:black;
+        height: 60px;
+        width: 1200px;
+        font-size: 25PX;
+        font-weight: 500;
+        margin-top: 0px;
+
+    }
+   #VIEW-FULL-BUTTON-TAG-ID{
+    margin-left: 360px;
+   }
+    #SHARE-ACTION-BUTTON {
+        height: 60px;
+        width: 1200px;
+        background-color: #202125;
+        margin-bottom: 40px;
+        margin-left: 360PX;
+        text-align: left;
+    }
+
+    #SHARE-ZORO-HEADING-SHARE-BUTTON
+    {
+        text-align: left;
+        font-size: 18px;
+        color:greenyellow;
+        padding-left: 40px;
+        padding-top: 7px;
+    }
+
+    #share-button-paragrapgh-id-to-your-friends {
+        text-align: left;
+        font-size: 14px;
+        color:white;
+        padding-left: 40px;
+    }
+
+
+    #SOCIAL-MEDIA-REACH-SHARE-BUTTON {
+        margin: 0px;
+        padding: 0px;
+        text-align: left;
+        color: #555;
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+
+fotter {
+    height: 200px;
+    background: #202125;
+    color: white;
+}
+
+#FOTTER-RIGHT-RESERVED {
+    margin-left: 360px;
+
+}
+
+#FOTTER-READ-MANGA-ONLINE-TAG {
+    text-decoration: none;
+    color: white;
+   margin-top: 10px;
+    display: inline-block;
+    margin-left: 360PX;
+  
+}
